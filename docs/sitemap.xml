@@ -3,27 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>http://canalgeo.com/about/</loc>
     <lastmod>2021-02-25T17:49:05-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/blog/</loc>
+    <loc>http://canalgeo.com/blog/</loc>
     <lastmod>2021-02-25T17:21:54-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://canalgeo.com/</loc>
     <lastmod>2021-02-25T17:21:54-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/blog/visualizar_nube_de_puntos_en_web_1/</loc>
+    <loc>http://canalgeo.com/blog/visualizar_nube_de_puntos_en_web_1/</loc>
     <lastmod>2021-02-25T17:21:54-06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://canalgeo.com/tags/</loc>
   </url>
   
 </urlset>

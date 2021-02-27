@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on canalgeo</title>
-    <link>http://example.org/blog/</link>
+    <link>http://canalgeo.com/blog/</link>
     <description>Recent content in Blogs on canalgeo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Feb 2021 17:21:54 -0600</lastBuildDate><atom:link href="http://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Feb 2021 17:21:54 -0600</lastBuildDate><atom:link href="http://canalgeo.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Visualizar_nube_de_puntos_en_web_1</title>
-      <link>http://example.org/blog/visualizar_nube_de_puntos_en_web_1/</link>
+      <link>http://canalgeo.com/blog/visualizar_nube_de_puntos_en_web_1/</link>
       <pubDate>Thu, 25 Feb 2021 17:21:54 -0600</pubDate>
       
-      <guid>http://example.org/blog/visualizar_nube_de_puntos_en_web_1/</guid>
+      <guid>http://canalgeo.com/blog/visualizar_nube_de_puntos_en_web_1/</guid>
       <description>PotreeConverter y los 3 pasos para visualizar una nube de puntos en el navegador Usando PotreeConverter o LAStools podemos convertir un archivo LAS a uno que permita ser visto desde un navegador.</description>
     </item>
     

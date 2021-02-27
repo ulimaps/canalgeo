@@ -7,7 +7,7 @@ draft: false
 
 Usando PotreeConverter o LAStools podemos convertir un archivo LAS a uno que permita ser visto desde un navegador.
 
-[Potree](https://https://github.com/potree/potree/), un rederizador de nubes de puntos libre y de código abierto, y LAStools es una colección de herramientas para tratamiento de nubes de puntos.
+[Potree](https://https://github.com/potree/potree/), es un rederizador de nubes de puntos libre y de código abierto y LAStools es una colección de herramientas para tratamiento de nubes de puntos.
 
 ### Los tres pasos son:
 
@@ -15,7 +15,7 @@ Usando PotreeConverter o LAStools podemos convertir un archivo LAS a uno que per
 2. Contar con un servidor web para ofrecer el contenido.
 3. Colocar el "directorio convertido" en directorio www, htdos o donde será servido para acceder a él accesible por el navegador.
 
-A continuación se explica cómo usar PotreeConverter (Método A), para convertir el archivo de LAS al <Directorio de Potree>, y en otra publicación cómo usar laspublish (Método B).
+A continuación se explica cómo usar PotreeConverter (Método A), para convertir el archivo con estensión "LAS" a un "\<Directorio de Potree>", y en otra publicación cómo usar laspublish (Método B).
 
 #### Método A, Con PotreeConverter:
 
